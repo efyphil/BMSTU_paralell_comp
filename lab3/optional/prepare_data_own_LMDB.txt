@@ -1,0 +1,10 @@
+
+cat caffe/data/ilsvrc12/synset_words.txt -n | grep owl
+нумерация (1-1000)
+282 ->0 n02123045 tabby, tabby cat
+255 ->1 n02110958 pug, pug-dog
+25  ->2 n01622779 great grey owl, great gray owl, Strix nebulosa
+
+
+cat caffe/data/ilsvrc12/train.txt | grep '.JPEG \(282\|255\|25\)$' 1>lab_CNN/train_own_LMDB.txt
+cat caffe/data/ilsvrc12/val.txt | grep '.JPEG \(282\|255\|25\)$' 1>lab_CNN/val_own_LMDB.txt

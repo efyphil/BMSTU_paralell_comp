@@ -1,0 +1,29 @@
+CPU classification: 6.08768510818sec
+GPU classification: 0.232763051987sec
+CPU/GPU time = 26.1540010591CPU classification: 6.09218478203sec
+GPU classification: 0.236590862274sec
+CPU/GPU time = 25.7498735305CPU classification: 6.0811522007sec
+GPU classification: 0.205387830734sec
+CPU/GPU time = 29.6081426974CPU classification: 6.09468793869sec
+GPU classification: 0.184799909592sec
+CPU/GPU time = 32.9799292227CPU classification: 6.09633111954sec
+GPU classification: 0.230226039886sec
+CPU/GPU time = 26.4797636381CPU classification: 6.09302282333sec
+GPU classification: 0.202184915543sec
+CPU/GPU time = 30.1358922202CPU classification: 6.10373902321sec
+GPU classification: 0.182609081268sec
+CPU/GPU time = 33.4251669239CPU classification: 6.09380912781sec
+GPU classification: 0.23193192482sec
+CPU/GPU time = 26.2741282061CPU classification: 6.12462592125sec
+GPU classification: 0.208850860596sec
+CPU/GPU time = 29.3253563992CPU classification: 6.05871105194sec
+GPU classification: 0.184195995331sec
+CPU/GPU time = 32.8927403718CPU classification: 6.10775089264sec
+GPU classification: 0.185297012329sec
+CPU/GPU time = 32.9619502002CPU classification: 6.0919251442sec
+GPU classification: 0.237533092499sec
+CPU/GPU time = 25.6466376121CPU classification: 6.0706641674sec
+GPU classification: 0.207473039627sec
+CPU/GPU time = 29.2600145943CPU classification: 6.07323002815sec
+GPU classification: 0.187724113464sec
+CPU/GPU time = 32.351890847

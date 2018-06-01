@@ -1,0 +1,4 @@
+#!/bin/bash
+#PBS -k o
+#PBS -j oe
+~/labs/lab1/test.bin
